@@ -1,3 +1,8 @@
 body {
-  background-color:paleturquoise;
+  background-color:rgb(166, 166, 255);
+  text-align: center;
+}
+
+.container {
+  padding: 8px;
 }
