@@ -22,7 +22,7 @@ $ code .
 ```
 #### Dont forget that in order to push any changes you need to add your own GitHub repo. to your project.
 ```
-git remote add origin https://github.com/calliestump/bike
+git remote add origin [repo link]
 ```
 ## Known Bugs
 There are no bugs at this time.
