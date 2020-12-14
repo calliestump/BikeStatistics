@@ -22,7 +22,7 @@ $ code .
 ```
 #### Dont forget that in order to push any changes you need to add your own GitHub repo. to your project.
 ```
-git remote add origin [repo. link]
+git remote add origin https://github.com/calliestump/bike
 ```
 ## Known Bugs
 There are no bugs at this time.
@@ -37,19 +37,6 @@ If you have any questions regarding this project feel free to contact me: callie
 * API
 * GIT
 * GitHub
-
-## **Specs**
-
-```
-Describe:
-Test: 
-Expect 
-```
-```
-Describe: 
-Test: 
-Expect 
-```
 
 ## Legal
 Copyright (c) 2020 Callie Stump
